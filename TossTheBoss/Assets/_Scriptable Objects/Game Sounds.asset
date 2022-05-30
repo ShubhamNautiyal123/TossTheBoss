@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d79dc48f1644cc47a0bf2f48861c2bc, type: 3}
+  m_Name: Game Sounds
+  m_EditorClassIdentifier: 
+  Coin: {fileID: 8300000, guid: b46dd15dbf1dfc74fb392e2cc018759c, type: 3}
+  Jump: {fileID: 8300000, guid: 63cd476b7899d8f47889fb5cd32a2437, type: 3}
+  Landing: {fileID: 8300000, guid: 7ab5eced67b4e68449ca3d3830e00dfd, type: 3}
+  Lose: {fileID: 8300000, guid: 4ec6396c9f4acdb418f0e991347e73eb, type: 3}
+  Win: {fileID: 8300000, guid: 7a2a9e14b8a859848bd62a382c1cd68b, type: 3}
+  WrongTile: {fileID: 8300000, guid: 6f333975a239c6d438cbadfedb398d0f, type: 3}
